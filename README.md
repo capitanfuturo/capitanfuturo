@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**capitanfuturo/capitanfuturo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am 👨 a father of three, 👪 an husband, a computer science engineer and have experience in working in many
+company as 👨🏻‍💻 tech lead and full stack developer in Italy. Besides programming I enjoy ⚽ playing soccer, 🏃‍♂️ running and 
+drinking 🍻 beer with my friends and colleagues.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🏦 I’m currently working on Docker, Spring Boot, Quarkus 
+- 🌱 I’m currently learning Nest.JS, Angular, Jenkins
+- 👯 I enjoy working on: DIY Rasperry Pi and Arduino projects, Open Source projects
+- 💬 Ask me about Java, RDBMS, Architecture
+- 📫 How to reach me: ✉ [giuseppe.caliendo@gmail.com](mailto:giuseppe.caliendo@gmail.com), 👨[linkedin](https://www.linkedin.com/in/giuseppecaliendo/)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ⚡ Technologies: 
+- Java, Scala, Javascript, HTML, CSS
+- PostgreSQL, Oracle DB, HBase
+- Spark, Spring Boot, Spring MVC, Spring Batch, Express.JS, Bootstrap, AngularJS, GWT
+- Windows, GNU\Linux
