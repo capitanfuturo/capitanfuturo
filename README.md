@@ -5,14 +5,13 @@ company as 👨🏻‍💻 tech lead and full stack developer in Italy. Besides 
 drinking 🍻 beer with my friends and colleagues.
 
 - 🏦 I’m currently working on Docker, Spring Boot, Quarkus 
-- 🌱 I’m currently learning Nest.JS, Angular, Jenkins
+- 🌱 I’m currently learning Nest.JS, Angular, Jenkins, Ansible, Docker
 - 👯 I enjoy working on: DIY Rasperry Pi and Arduino projects, Open Source projects
 - 💬 Ask me about Java, RDBMS, Architecture
 - 📫 How to reach me: ✉ [giuseppe.caliendo@gmail.com](mailto:giuseppe.caliendo@gmail.com), 👨[linkedin](https://www.linkedin.com/in/giuseppecaliendo/)
-- 😄 Pronouns: ...
 
 ### ⚡ Technologies: 
-- Java, Scala, Javascript, HTML, CSS
-- PostgreSQL, Oracle DB, HBase
-- Spark, Spring Boot, Spring MVC, Spring Batch, Express.JS, Bootstrap, AngularJS, GWT
+- Java, Scala, Javascript, HTML, CSS, PHP
+- PostgreSQL, MySql, Oracle DB, HBase
+- Spark, Spring Boot, Spring MVC, Spring Batch, Express.JS, Bootstrap, AngularJS, Angular, GWT, NodeJS, CakePHP
 - Windows, GNU\Linux
