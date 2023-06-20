@@ -5,8 +5,8 @@ company as 👨🏻‍💻 tech lead and full stack developer in Italy. Besides 
 drinking 🍻 beer with my friends and colleagues.
 
 - 🏦 I’m currently working on Docker, Docker-Compose, NestJS, Angular, SpringBoot 
-- 🌱 I’m currently learning DDD, Terraform
-- 👯 I enjoy working on: DIY Rasperry Pi and Arduino projects, Open Source projects
+- 🌱 I’m currently learning AI, DDD
+- 👯 I enjoy working on: Side projects, Open Source projects, DIY Rasperry Pi and Arduino projects
 - 💬 Ask me about Software Architectures
 - 📫 How to reach me: ✉ [giuseppe.caliendo@gmail.com](mailto:giuseppe.caliendo@gmail.com), 👨[linkedin](https://www.linkedin.com/in/giuseppecaliendo/)
 
