@@ -6,7 +6,7 @@ I am 👨 a father of three, 👪 an husband, a computer science engineer :compu
 - 🌱 I’m currently learning AI, DDD
 - 👯 I enjoy working on: Side projects, Open Source projects, DIY Rasperry Pi and Arduino projects
 - 💬 Ask me about Software Architectures and Team Leading
-- 📫 How to reach me: ✉ [giuseppe.caliendo@gmail.com](mailto:giuseppe.caliendo@gmail.com), 👨[linkedin](https://www.linkedin.com/in/giuseppecaliendo/)
+- 📫 How to reach me: 👨[linkedin](https://www.linkedin.com/in/giuseppecaliendo/)
 
 ## ⚡ I work with:
 <div align="left">
